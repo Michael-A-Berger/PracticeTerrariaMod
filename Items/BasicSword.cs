@@ -7,7 +7,8 @@ namespace PracticeTerrariaMod.Items
 	{
 		public override void SetStaticDefaults() 
 		{
-			// DisplayName.SetDefault("BasicSword"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
+			// By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
+			// DisplayName.SetDefault("BasicSword");
 			Tooltip.SetDefault("This is a basic modded sword.");
 		}
 
